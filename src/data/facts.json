@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "fact": "The Earth's global average temperature has increased by around 1.1°C since the pre-industrial era, primarily due to human activities.",
+    "source": "IPCC (Intergovernmental Panel on Climate Change)",
+    "image": "https://images.pexels.com/photos/1108572/pexels-photo-1108572.jpeg",
+    "category": "Climate Change"
+  },
+  {
+    "id": 2,
+    "fact": "Recycling one aluminum can saves enough energy to run a TV for three hours.",
+    "source": "U.S. Environmental Protection Agency (EPA)",
+    "image": "https://images.pexels.com/photos/802221/pexels-photo-802221.jpeg",
+    "category": "Recycling"
+  },
+  {
+    "id": 3,
+    "fact": "Around 8 million tons of plastic waste escapes into the oceans every year, which is equivalent to setting five garbage bags full of trash on every foot of coastline around the world.",
+    "source": "National Geographic",
+    "image": "https://images.pexels.com/photos/2409022/pexels-photo-2409022.jpeg",
+    "category": "Pollution"
+  },
+  {
+    "id": 4,
+    "fact": "The Amazon rainforest produces about 20% of Earth's oxygen and absorbs around 2.2 billion tons of carbon dioxide each year.",
+    "source": "World Wildlife Fund (WWF)",
+    "image": "https://images.pexels.com/photos/931007/pexels-photo-931007.jpeg",
+    "category": "Forests"
+  },
+  {
+    "id": 5,
+    "fact": "A single tree can absorb around 22 kilograms of carbon dioxide per year and release enough oxygen for four people to breathe.",
+    "source": "Arbor Day Foundation",
+    "image": "https://images.pexels.com/photos/957024/forest-trees-perspective-bright-957024.jpeg",
+    "category": "Trees"
+  },
+  {
+    "id": 6,
+    "fact": "The Great Pacific Garbage Patch, a collection of marine debris in the North Pacific Ocean, is estimated to be twice the size of Texas.",
+    "source": "National Oceanic and Atmospheric Administration (NOAA)",
+    "image": "https://images.pexels.com/photos/1656/sea-beach-holiday-vacation.jpg",
+    "category": "Oceans"
+  },
+  {
+    "id": 7,
+    "fact": "The average American produces about 4.4 pounds (2 kilograms) of trash every day.",
+    "source": "U.S. Environmental Protection Agency (EPA)",
+    "image": "https://images.pexels.com/photos/2421374/pexels-photo-2421374.jpeg",
+    "category": "Waste"
+  },
+  {
+    "id": 8,
+    "fact": "Electric cars produce zero direct emissions, which can help improve air quality in cities.",
+    "source": "U.S. Department of Energy",
+    "image": "https://images.pexels.com/photos/3894986/pexels-photo-3894986.jpeg",
+    "category": "Transportation"
+  },
+  {
+    "id": 9,
+    "fact": "It takes about 450 years for a plastic bottle to decompose in a landfill.",
+    "source": "National Park Service",
+    "image": "https://images.pexels.com/photos/802221/pexels-photo-802221.jpeg",
+    "category": "Plastic Waste"
+  },
+  {
+    "id": 10,
+    "fact": "Switching to LED bulbs can reduce energy consumption by up to 80% compared to traditional incandescent bulbs.",
+    "source": "U.S. Department of Energy",
+    "image": "https://images.pexels.com/photos/792395/pexels-photo-792395.jpeg",
+    "category": "Energy Efficiency"
+  }
+]

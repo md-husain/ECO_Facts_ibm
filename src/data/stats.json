@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Global Temperature Increase",
+    "value": "1.1°C",
+    "description": "Average global temperature rise since pre-industrial times",
+    "icon": "temperature-high"
+  },
+  {
+    "id": 2,
+    "title": "Sea Level Rise",
+    "value": "3.6 mm",
+    "description": "Annual sea level rise rate",
+    "icon": "water"
+  },
+  {
+    "id": 3,
+    "title": "CO₂ Concentration",
+    "value": "417 ppm",
+    "description": "Current atmospheric CO₂ concentration",
+    "icon": "smog"
+  },
+  {
+    "id": 4,
+    "title": "Arctic Ice Loss",
+    "value": "13.1%",
+    "description": "Arctic sea ice decline per decade",
+    "icon": "snowflake"
+  }
+]
