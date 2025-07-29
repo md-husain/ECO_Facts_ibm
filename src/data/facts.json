@@ -10,7 +10,7 @@
     "id": 2,
     "fact": "Recycling one aluminum can saves enough energy to run a TV for three hours.",
     "source": "U.S. Environmental Protection Agency (EPA)",
-    "image": "https://images.pexels.com/photos/802221/pexels-photo-802221.jpeg",
+    "image": "https://images.pexels.com/photos/3816755/pexels-photo-3816755.jpeg",
     "category": "Recycling"
   },
   {
@@ -59,7 +59,7 @@
     "id": 9,
     "fact": "It takes about 450 years for a plastic bottle to decompose in a landfill.",
     "source": "National Park Service",
-    "image": "https://images.pexels.com/photos/802221/pexels-photo-802221.jpeg",
+    "image": "https://images.pexels.com/photos/3152522/pexels-photo-3152522.jpeg",
     "category": "Plastic Waste"
   },
   {
@@ -68,5 +68,110 @@
     "source": "U.S. Department of Energy",
     "image": "https://images.pexels.com/photos/792395/pexels-photo-792395.jpeg",
     "category": "Energy Efficiency"
+  },
+  {
+    "id": 11,
+    "fact": "Using public transportation instead of a car can reduce your carbon footprint by up to 45%.",
+    "source": "Environmental Protection Agency (EPA)",
+    "image": "https://images.pexels.com/photos/1387174/pexels-photo-1387174.jpeg",
+    "category": "Transportation"
+  },
+  {
+    "id": 12,
+    "fact": "Deforestation contributes to about 11% of global greenhouse gas emissions.",
+    "source": "Food and Agriculture Organization (FAO)",
+    "image": "https://images.pexels.com/photos/167684/pexels-photo-167684.jpeg",
+    "category": "Forests"
+  },
+  {
+    "id": 13,
+    "fact": "Coral reefs support approximately 25% of all marine species.",
+    "source": "National Oceanic and Atmospheric Administration (NOAA)",
+    "image": "https://images.pexels.com/photos/33109/fish-fish-school-aquarium.jpg",
+    "category": "Oceans"
+  },
+  {
+    "id": 14,
+    "fact": "Producing one pound of beef requires about 1,800 gallons of water.",
+    "source": "Water Footprint Network",
+    "image": "https://images.pexels.com/photos/248280/pexels-photo-248280.jpeg",
+    "category": "Food"
+  },
+  {
+    "id": 15,
+    "fact": "Air pollution is responsible for about 1 in 8 deaths globally.",
+    "source": "World Health Organization (WHO)",
+    "image": "https://images.pexels.com/photos/459728/pexels-photo-459728.jpeg",
+    "category": "Air Quality"
+  },
+  {
+    "id": 16,
+    "fact": "Producing recycled paper uses 70% less energy than producing new paper from raw materials.",
+    "source": "Recycling Facts Organization",
+    "image": "https://images.pexels.com/photos/886521/pexels-photo-886521.jpeg",
+    "category": "Recycling"
+  },
+  {
+    "id": 17,
+    "fact": "Composting food waste helps reduce methane emissions from landfills.",
+    "source": "EPA",
+    "image": "https://images.pexels.com/photos/4210617/pexels-photo-4210617.jpeg",
+    "category": "Waste"
+  },
+  {
+    "id": 18,
+    "fact": "Global wildlife populations have declined by an average of 69% since 1970.",
+    "source": "WWF Living Planet Report",
+    "image": "https://images.pexels.com/photos/414612/pexels-photo-414612.jpeg",
+    "category": "Wildlife"
+  },
+  {
+    "id": 19,
+    "fact": "Green buildings can reduce energy consumption by up to 30%.",
+    "source": "U.S. Green Building Council",
+    "image": "https://images.pexels.com/photos/449203/pexels-photo-449203.jpeg",
+    "category": "Green Energy"
+  },
+  {
+    "id": 20,
+    "fact": "The ozone layer is healing, thanks to global bans on ozone-depleting substances.",
+    "source": "United Nations Environment Programme (UNEP)",
+    "image": "https://images.pexels.com/photos/1108572/pexels-photo-1108572.jpeg",
+    "category": "Atmosphere"
+  },
+  {
+    "id": 21,
+    "fact": "Turning off the tap while brushing your teeth can save 8 gallons of water per day.",
+    "source": "Waterwise",
+    "image": "https://images.pexels.com/photos/1452717/pexels-photo-1452717.jpeg",
+    "category": "Water Conservation"
+  },
+  {
+    "id": 22,
+    "fact": "One reusable bag can eliminate hundreds of plastic bags over its lifetime.",
+    "source": "Environmental Protection Agency",
+    "image": "https://images.pexels.com/photos/1558643/pexels-photo-1558643.jpeg",
+    "category": "Plastic Waste"
+  },
+  {
+    "id": 23,
+    "fact": "Solar energy is the most abundant energy resource on Earth.",
+    "source": "U.S. Department of Energy",
+    "image": "https://images.pexels.com/photos/371900/pexels-photo-371900.jpeg",
+    "category": "Renewable Energy"
+  },
+  {
+    "id": 24,
+    "fact": "Wetlands can store 3–5 times more carbon than tropical forests.",
+    "source": "Ramsar Convention on Wetlands",
+    "image": "https://images.pexels.com/photos/1166209/pexels-photo-1166209.jpeg",
+    "category": "Wetlands"
+  },
+  {
+    "id": 25,
+    "fact": "An estimated 33% of all food produced globally is wasted.",
+    "source": "Food and Agriculture Organization (FAO)",
+    "image": "https://images.pexels.com/photos/248423/pexels-photo-248423.jpeg",
+    "category": "Food Waste"
   }
 ]

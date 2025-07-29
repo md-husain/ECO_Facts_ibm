@@ -1,0 +1,54 @@
+.login-page {
+  min-height: 100vh;
+  background: url('/forest-bg.png') no-repeat center center/cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.login-container {
+  width: 100%;
+  max-width: 420px;
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(14px);
+  border-radius: 15px;
+  padding: 30px;
+  color: white;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+}
+
+/* Input styling for visibility */
+.input {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  padding: 10px;
+  border-radius: 8px;
+  color: white;
+  font-size: 1rem;
+  width: 100%;
+  outline: none;
+}
+
+.input::placeholder {
+  color: rgba(240, 240, 240, 0.85);
+}
+
+.input:focus {
+  border-color: rgba(255, 255, 255, 0.8);
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+}
+
+a.link-light {
+  color: #e0f0ff;
+  text-decoration: underline;
+}
+
+a.link-light:hover {
+  color: #fff;
+}

@@ -39,7 +39,7 @@ const Header = () => {
               <img 
                 src="/assets/Greenearth.jpeg" 
                 alt="Earth" 
-                className="img-fluid rounded-circle shadow-lg"
+                className="img-fluid rounded-circle shadow-lg ring-4 ring-green-400"
                 style={{ maxWidth: '400px', border: '1px solid black' }}
               />
             </motion.div>

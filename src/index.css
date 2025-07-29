@@ -23,3 +23,25 @@
 ::-webkit-scrollbar-corner {
   display: none;
 }
+/* Dark mode base */
+body.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+/* Card dark mode */
+body.dark-mode .card {
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
+
+/* Button dark mode */
+body.dark-mode .btn-outline-success {
+  color: #90ee90;
+  border-color: #90ee90;
+}
+
+body.dark-mode .btn-outline-success:hover {
+  background-color: #90ee90;
+  color: #000;
+}
