@@ -115,5 +115,5 @@ Auto-refresh and stat APIs tested via logging and network tab
 This project is licensed under the MIT License.
 
 📬 Contact
-Made with 💚 by Your Name
+Made with 💚 by MD HUSAIN
 For suggestions and contributions, feel free to open an issue or pull request.
